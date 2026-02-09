@@ -16,7 +16,7 @@ const GoogleIcon = () => (
 
 const Index = () => {
   const handleCTAClick = () => {
-    window.open("https://www.pemjh.site/2FL4HCSN/9FB4HW2/?sub1=fingoinsure", "_blank");
+    window.open("https://www.chesy.site/2C8F3S39/9RTWNMC/?sub1=tkayinsure", "_blank");
   };
 
   return (
