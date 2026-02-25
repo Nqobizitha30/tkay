@@ -16,7 +16,7 @@ const GoogleIcon = () => (
 
 const Index = () => {
   const handleCTAClick = () => {
-    window.open("https://afflat3d3.com/trk/lnk/9EFC6473-357F-490D-848A-F51BDAE388E8/?o=22134&c=918277&a=599747&k=6B7DE36D0869B3E6A9492E8D94A6F1CA&l=22980&s1=tkay", "_blank");
+    window.open("https://www.chesy.site/2C8F3S39/9ZSR283/?sub1=tkayHins", "_blank");
   };
 
   return (
